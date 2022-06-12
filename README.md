@@ -6,5 +6,5 @@
 </div>
   
 <div>
-  ![Snake animation](https://github.com/SirProxy/SirProxy/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/SirProxy/SirProxy/blob/output/github-contribution-grid-snake.gif)
 </div>
