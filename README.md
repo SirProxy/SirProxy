@@ -33,6 +33,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </p>
 
-<p  align="center">
 [![readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Quiet%20people%20have%20loudest%20minds&author=Stephen%20Hawking&theme=dark&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-</p>
