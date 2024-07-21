@@ -8,11 +8,6 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/SirProxy/count.svg" />  
 </p>
-   
-
-<div align="center">
-  ![snake animation](https://github.com/SirProxy/SirProxy/blob/output/github-contribution-grid-snake2.svg)
-</div>
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
