@@ -15,7 +15,7 @@
 
 ### 💻 &nbsp;Sobre:
 
-- 💼 &nbsp; Sou Desenvolvedor Pleno na MRC Sistemas;
+- 💼 &nbsp; Sou Desenvolvedor Sênior na MRC Sistemas;
 - 👨🏻‍💻 &nbsp; Pentester | Red Team.
 - 🎓 &nbsp; Estudo Ciências da Computação na Uniamérica;
 - 🔒 &nbsp; Estou me preparando para a certificação DCPT (Desec Certified Penetration Tester).
