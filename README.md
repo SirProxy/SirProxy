@@ -9,7 +9,7 @@
 
 ## 😀 About Me
 
-- 💼 Senior Developer at **MRC Sistemas**
+- 💼 Senior Developer at **Paschoalotto**
 - 🔐 **Pentester | Red Team** enthusiast focused on offensive security
 - 🎓 Computer Science student at **Uniamérica**
 - 🧠 Preparing for the **DCPT (Desec Certified Penetration Tester)** certification
