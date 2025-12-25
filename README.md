@@ -11,7 +11,7 @@
 
 - 💼 Senior Developer at **Paschoalotto**
 - 🔐 **Pentester | Red Team** enthusiast focused on offensive security
-- 🎓 Computer Science student at **Uniamérica**
+- 🎓 Bachelor's Degree in **Computer Science**
 - 🧠 Preparing for the **DCPT (Desec Certified Penetration Tester)** certification
 
 ---
