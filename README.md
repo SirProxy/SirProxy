@@ -9,7 +9,7 @@
 
 ## 😀 About Me
 
-- 💼 Senior Developer at **Paschoalotto**
+- 💼 Developer at **Paschoalotto**
 - 🔐 **Pentester | Red Team** enthusiast focused on offensive security
 - 🎓 Bachelor's Degree in **Computer Science**
 - 🧠 Preparing for the **DCPT (Desec Certified Penetration Tester)** certification
